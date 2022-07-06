@@ -121,12 +121,6 @@ section{
    margin: 2% 1%;
 }
 
-#section4 {
-   padding: 0% 7%;
-}
-#section4-div1{
-   display: flex;
-}
 #write1{
    width: 50%;
    padding-top: 2%;
@@ -160,40 +154,11 @@ section{
    display: flex;
    margin-top: 6%;
 }
-#write2{
-   width: 50%;
-   padding-top: 2%;
-   padding-left: 6%;
-}
-#write2 h1{
-   font-size:30px;
- 
-}
-#write2 p{
-   color: gray;
-}
-#write2 a{
-   color: white;
-    background-color: tomato;
-    padding: 10px 25px;
-    border-radius: 5px;
-    text-decoration: none;
-    margin-top: 3%;
-    display: inline-block;
-   
-}
-#imag2{
-   width: 50%;
-}
-#imag2 img{
-   width: 100%;
-   height: 425px;
-}
-#section5 h1{
+#section4 h1{
    font-size: 30px;
    text-align: center;
 }
-#section5 p{
+#section4 p{
    text-align: center;
    color: gray;
    margin: 0% 29%;
